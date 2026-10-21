@@ -185,4 +185,4 @@ This work was supported by the U.S. Department of Energy, Office of Energy Effic
 
 ## Contact
 
-For questions about the dataset, measurement pairing, or study methodology, contact **Ozan Karadut** at **sok522@lehigh.edu**.
+For questions about the dataset, measurement pairing, or study methodology, contact **Ozan Karadut** at **sok522@lehigh.edu** or **ozan.karadut@gmail.com* .
